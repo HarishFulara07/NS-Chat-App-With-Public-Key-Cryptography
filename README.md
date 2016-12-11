@@ -14,7 +14,7 @@ Additionally, the communication responder peer could ask the the initiator for a
 
 <br>
 
-Note: You can find detailed information in [readme.pdf] (https://github.com/HarishFulara07/NS-Chat-App-With-Public-Key-Cryptography/blob/master/README/readme.pdf) inside **README** directory.
+**Note**: You can find detailed information in [readme.pdf] (https://github.com/HarishFulara07/NS-Chat-App-With-Public-Key-Cryptography/blob/master/README/readme.pdf) inside **README** directory.
 
 <br>
 
