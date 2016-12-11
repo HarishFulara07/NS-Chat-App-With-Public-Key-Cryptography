@@ -32,4 +32,4 @@ make
 
 ./client
 
-NOTE: To run multiple clients, run the above command in a new terminal window for each client
+**NOTE**: To run multiple clients, run the above command in a new terminal window for each client
