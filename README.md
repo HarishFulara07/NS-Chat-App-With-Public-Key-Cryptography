@@ -1,4 +1,4 @@
-# Chat App With Public Key Cryptography
+# Chat App With Public Private Cryptography
 
 This is a multi-user chat application with mutual authentication using X.509 certificates.
 
